@@ -67,13 +67,13 @@ Copy the value that is printed (a 32-character hexadecimal string). It is needed
 
 Browse to **http://localhost:8080/**. Jenkins asks for the administrator password. Paste the value from Step 3 and click **Continue**.
 
-![Unlock Jenkins screen](images/jenkins-unlock.png)
+
 
 ## Step 5: Install plugins (Getting Started)
 
 Choose **Install suggested plugins**. Jenkins downloads and installs the recommended set, including Folders, Pipeline, Git, Credentials Binding, Timestamper, Gradle, Email Extension, Matrix Authorization Strategy, and others.
 
-![Getting Started plugin installation](images/jenkins-getting-started.png)
+
 
 ## Step 6: Create the admin user and finish setup
 
@@ -87,7 +87,7 @@ After the plugins finish installing:
 
 The setup is complete when the **Welcome to Jenkins!** dashboard loads. It shows the Build Queue (empty), the Build Executor Status (0/2), and the **Create a job** option. The footer shows the installed version, **Jenkins 2.580.1**, and the logged-in user is shown in the top-right menu.
 
-![Jenkins dashboard](images/jenkins-landing-page.png)
+
 
 ---
 
